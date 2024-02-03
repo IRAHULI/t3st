@@ -1,0 +1,14 @@
+/* Written by Rahul Imtiaz - Student Number: 8941944 */
+
+body {
+  font: 20px Arial, sans-serif;
+  background-color: hsla(211, 57%, 70%, 0.3);
+  height: 100vh;
+  width: 100vw;
+}
+
+  h2 {
+    color: rgb(243, 33, 33);
+    font-size: 26px
+  }
+  
